@@ -1,0 +1,10 @@
+{
+  "name": "SkibidiServer",
+  "version": "0.1.0",
+  "minecraft": "1.18.2",
+  "loader": "Forge",
+  "loaderVersion": "40.2.17",
+  "files": []
+}
+
+Crear manifest inicial
