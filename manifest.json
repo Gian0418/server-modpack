@@ -1,14 +1,14 @@
 {
   "name": "SkibidiServer",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minecraft": "1.18.2",
   "loader": "Forge",
   "loaderVersion": "40.2.17",
   "files": [
     {
-      "path": "mods/prueba.txt",
-      "url": "https://raw.githubusercontent.com/Gian0418/server-modpack/refs/heads/main/prueba.txt",
-      "sha256": "894ad68dd35450bfbfe9b49157ea6e736830511b503430e6dbf4d7c2fa02e07b"
+      "path": "mods/ferritecore-4.2.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar",
+      "sha256": "e8be79e6fb2e31dc1e347697c18fefdc87ac9d1c7e7060c50fedef3ad41da139"
     }
   ]
 }
