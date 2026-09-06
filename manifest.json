@@ -1,6 +1,6 @@
 {
   "name": "SkibidiServer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "minecraft": "1.18.2",
   "loader": "Forge",
   "loaderVersion": "40.2.17",
