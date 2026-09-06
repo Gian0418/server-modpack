@@ -6,9 +6,54 @@
   "loaderVersion": "40.2.17",
   "files": [
     {
-      "path": "mods/ferritecore-4.2.2-forge.jar",
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/fs07zE6w/ferritecore-4.2.2-forge.jar",
-      "sha256": "f8bf79f6eb2e31dc1e347697c18effdc87ac9d1c7e7060c50ffdef3ad41da139"
+      "path": "mods/[1.18.2] SecurityCraft v1.10.1.jar",
+      "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/4LdfNIom/%5B1.18.2%5D%20SecurityCraft%20v1.10.1.jar",
+      "sha256": "31e805d074faad1b16bdffd2fe47fb900ae87dc76747686084b6e9e7e8378e15"
+    },
+    {
+      "path": "mods/artifacts-1.18.2-4.2.4.jar",
+      "url": "https://github.com/Gian0418/server-modpack/releases/download/mods-1.18.2/artifacts-1.18.2-4.2.4.jar",
+      "sha256": "ee5d12f944e1318ca8f949450b0a41eaf8495a07e500bcdaaaa2c72ea2526d9c"
+    },
+    {
+      "path": "mods/balm-3.2.6.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RAATKbAN/balm-3.2.6.jar",
+      "sha256": "778836126627893164a39eca8e4ec4321b9f00d0aeb7cc3fafaac10f1f288eba"
+    },
+    {
+      "path": "mods/carryon-1.18.2-1.17.2.15.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/AlPBrFTW/carryon-1.18.2-1.17.2.15.jar",
+      "sha256": "1134bf092769f4f10a8f981c10ced52eeaf7d84475f9b48d8e644ce7956843f5"
+    },
+    {
+      "path": "mods/citadel-1.11.3-1.18.2.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/ge8ra0kG/citadel-1.11.3-1.18.2.jar",
+      "sha256": "4e4ae44dc790473390a14bc8d098f5a3876f236a2af9f12ab6be8cf2bcb72a7c"
+    },
+    {
+      "path": "mods/create-1.18.2-0.5.1.i.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/7BIftSin/create-1.18.2-0.5.1.i.jar",
+      "sha256": "5311dbc98d734d7cf0f38f3a9a149234136b912228cdf01b746fbe32d41d0fe2"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.11.27_mc1.18.2.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/U2uEG971/CreativeCore_FORGE_v2.11.27_mc1.18.2.jar",
+      "sha256": "61ee38c59dd71aab64f960309e0328c2f79516fd2cb5d381a9ec7e7b2b6fb750"
+    },
+    {
+      "path": "mods/curios-forge-1.18.2-5.0.9.2.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/sVuCrC2E/curios-forge-1.18.2-5.0.9.2.jar",
+      "sha256": "fdb905c7c24e2fe4326c3f4846d79b174687396fac904d822a806e13c9baa981"
+    },
+    {
+      "path": "mods/DungeonsArise-1.18.2-2.1.52-release.jar",
+      "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/THcw6Yap/DungeonsArise-1.18.2-2.1.52-release.jar",
+      "sha256": "7bb7f70f93ac444bc7c93ff46a94cb254fe79b14ae5cc97414b49c8e344d7374"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-1.18.2_v1.3.3.jar",
+      "url": "https://github.com/Gian0418/server-modpack/releases/download/mods-1.18.2/dynamiclightsreforged-1.18.2_v1.3.3.jar",
+      "sha256": "6443ac136868b0c56036efd2572cc3686429ad676c23c95ff8237fc031245c15"
     }
   ]
 }
